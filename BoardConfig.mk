@@ -258,5 +258,8 @@ ifeq ($(HOST_OS),linux)
     endif
 endif
 
+# IPA
+USE_DEVICE_SPECIFIC_DATA_IPA_CFG_MGR := true
+
 # inherit from the proprietary version
 -include vendor/xiaomi/clover/BoardConfigVendor.mk
