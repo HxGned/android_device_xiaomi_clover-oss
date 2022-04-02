@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.mokee.settings.doze;
+package org.lineage.settings.doze;
 
 import android.content.Context;
 import android.hardware.Sensor;
